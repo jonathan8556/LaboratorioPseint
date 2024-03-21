@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710996521 source:c:\users\pc\documents\proyectos git hub\3.16 (calculadora de la frecuencia cardiaca esperada)\main.cpp
+	<iostream>
+	<string>
+
